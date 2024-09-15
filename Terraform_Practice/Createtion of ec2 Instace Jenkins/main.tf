@@ -49,4 +49,9 @@ resource "aws_instance" "jenkins_server" {
               sudo systemctl start jenkins
               sudo systemctl enable jenkins
               EOF
+
+  root_block_device {
+    volume_size = var.volume_size
+    delete_on_termination = True
+  }
 }

@@ -27,3 +27,9 @@ variable "instance_name" {
   type = string
   default = "Jenkins Server"
 }
+
+variable "volume_size" {
+  description = "The size of the root volume in GB"
+  type        = number
+  default     = 20
+}
