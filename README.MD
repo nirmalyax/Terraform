@@ -1,6 +1,9 @@
 
 <center>
+
 ![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)
+
+
 # 🚀 Learn Terraform Together 🌍
 #### Author -  Nirmalya Mondal
 
