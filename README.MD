@@ -7,7 +7,7 @@
 
 #### Author -  Nirmalya Mondal
 
-https://roadmap.sh/card/wide/66e351934ffb3bc3b066faa2?variant=dark
+[![roadmap.sh](https://roadmap.sh/card/wide/66e351934ffb3bc3b066faa2?variant=dark)](https://roadmap.sh)
 
 Welcome to **Learn Terraform Together** – a place where we're on a mission to master Terraform and help others do the same! Whether you're just starting out or want to brush up your skills, you're in the right place. 🎓
 
