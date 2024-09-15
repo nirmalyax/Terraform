@@ -1,10 +1,10 @@
 
 <center>
 
+# 🚀 Learn Terraform Together 🌍
+
 ![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)
 
-
-# 🚀 Learn Terraform Together 🌍
 #### Author -  Nirmalya Mondal
 
 Welcome to **Learn Terraform Together** – a place where we're on a mission to master Terraform and help others do the same! Whether you're just starting out or want to brush up your skills, you're in the right place. 🎓
